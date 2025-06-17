@@ -8,53 +8,92 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m a **Frontend Developer** focused on building responsive, user-friendly web interfaces.
-- 👨‍🎓 Currently learning **React.js**, **Tailwind CSS**, and **JavaScript ES6+**.
-- 🔧 Built several projects during learning and internships to sharpen my skills.
-- 🎯 Seeking **Frontend Development** roles to contribute and grow.
+- 🌱 I’m a **Frontend Developer** passionate about building responsive, user-friendly websites.
+- 🔧 Skilled in **HTML**, **CSS**, **Bootstrap**, **JavaScript**, and currently learning **React.js** and **Tailwind CSS**.
+- 💻 Built and deployed multiple real-world web projects.
+- 🎯 Actively seeking **Frontend Development** opportunities.
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5‑E34F26?style=for‑the‑badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3‑1572B6?style=for‑the‑badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap‑563D7C?style=for‑the‑badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript‑F7DF1E?style=for‑the‑badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React‑61DAFB?style=for‑the‑badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TailwindCSS‑38B2AC?style=for‑the‑badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git‑F05032?style=for‑the‑badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## 🔭 Projects
+## 🔭 Featured Projects
 
-### • [Planet Earth Website](https://github.com/dhruvesh1811/earth)
-A multi‑page, responsive Bootstrap site with dynamic font/color themes. Includes a contact form layout and Font Awesome icons. :contentReference[oaicite:1]{index=1}
-
-### • [Themount](https://github.com/dhruvesh1811/Themount)
-Simple HTML/CSS landing page template—clean design ready for adaptation. :contentReference[oaicite:2]{index=2}
-
-### • [MR](https://github.com/dhruvesh1811/MR)
-Contains a `resources.html` file—likely a learning or reference page built in HTML. :contentReference[oaicite:3]{index=3}
-
-### • [leben](https://github.com/dhruvesh1811/leben)
-Dynamic PHP‑based multi‑page website for showcasing products and services. :contentReference[oaicite:4]{index=4}
-
-### • [cycle](https://github.com/dhruvesh1811/cycle)
-An HTML/CSS/JS template—possibly a landing page or demonstrative layout. :contentReference[oaicite:5]{index=5}
-
-### • [DNK](https://github.com/dhruvesh1811/DNK) *(assuming this exists similarly)*
-Another template-based project focusing on HTML, CSS—great for showcasing layout skills.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://dhruvesh1811.github.io/earth/" target="_blank">
+        <img src="https://via.placeholder.com/400x200.png?text=Planet+Earth+Project" alt="Planet Earth" />
+        <br />
+        <strong>Planet Earth Website 🌍</strong>
+      </a>
+      <p>A responsive multi-page website with theme toggles and custom UI design.</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://dhruvesh1811.github.io/Themount/" target="_blank">
+        <img src="https://via.placeholder.com/400x200.png?text=Themount+Landing+Page" alt="Themount Project" />
+        <br />
+        <strong>Themount Landing Page 🏔️</strong>
+      </a>
+      <p>A sleek, minimal HTML/CSS template ideal for modern businesses.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://dhruvesh1811.github.io/MR/resources.html" target="_blank">
+        <img src="https://via.placeholder.com/400x200.png?text=MR+Resources+Page" alt="MR Resources" />
+        <br />
+        <strong>MR Resources 📚</strong>
+      </a>
+      <p>A simple resources and learning materials page.</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://dhruvesh1811.github.io/leben/" target="_blank">
+        <img src="https://via.placeholder.com/400x200.png?text=Leben+Enterprise+Site" alt="Leben Enterprise" />
+        <br />
+        <strong>Leben PHP Site 💼</strong>
+      </a>
+      <p>A professional multi-page website for showcasing enterprise products.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://dhruvesh1811.github.io/cycle/" target="_blank">
+        <img src="https://via.placeholder.com/400x200.png?text=Cycle+Web+Template" alt="Cycle Website" />
+        <br />
+        <strong>Cycle Website 🚴‍♂️</strong>
+      </a>
+      <p>Responsive single-page design ideal for landing or event sites.</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://dhruvesh1811.github.io/DNK/" target="_blank">
+        <img src="https://via.placeholder.com/400x200.png?text=DNK+Design+Template" alt="DNK Project" />
+        <br />
+        <strong>DNK Template 🎨</strong>
+      </a>
+      <p>Creative and modern frontend layout for portfolios or studios.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvesh1811&show_icons=true&theme=github_dark&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvesh1811&show_icons=true&theme=github_dark" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvesh1811&theme=github-dark" height="150" />
 </p>
 
