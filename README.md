@@ -35,7 +35,6 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://dhruvesh1811.github.io/earth/" target="_blank">
-        <img src="https://via.placeholder.com/400x200.png?text=Planet+Earth+Project" alt="Planet Earth" />
         <br />
         <strong>Planet Earth Website 🌍</strong>
       </a>
@@ -43,7 +42,6 @@
     </td>
     <td align="center" width="50%">
       <a href="https://dhruvesh1811.github.io/Themount/" target="_blank">
-        <img src="https://via.placeholder.com/400x200.png?text=Themount+Landing+Page" alt="Themount Project" />
         <br />
         <strong>Themount Landing Page 🏔️</strong>
       </a>
@@ -53,7 +51,6 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://dhruvesh1811.github.io/MR/resources.html" target="_blank">
-        <img src="https://via.placeholder.com/400x200.png?text=MR+Resources+Page" alt="MR Resources" />
         <br />
         <strong>MR Resources 📚</strong>
       </a>
@@ -61,7 +58,6 @@
     </td>
     <td align="center" width="50%">
       <a href="https://dhruvesh1811.github.io/leben/" target="_blank">
-        <img src="https://via.placeholder.com/400x200.png?text=Leben+Enterprise+Site" alt="Leben Enterprise" />
         <br />
         <strong>Leben PHP Site 💼</strong>
       </a>
@@ -71,7 +67,6 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://dhruvesh1811.github.io/cycle/" target="_blank">
-        <img src="https://via.placeholder.com/400x200.png?text=Cycle+Web+Template" alt="Cycle Website" />
         <br />
         <strong>Cycle Website 🚴‍♂️</strong>
       </a>
@@ -79,7 +74,6 @@
     </td>
     <td align="center" width="50%">
       <a href="https://dhruvesh1811.github.io/DNK/" target="_blank">
-        <img src="https://via.placeholder.com/400x200.png?text=DNK+Design+Template" alt="DNK Project" />
         <br />
         <strong>DNK Template 🎨</strong>
       </a>
