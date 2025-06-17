@@ -96,7 +96,7 @@
 ### 🔗 Let's Connect
 
 - 📧 Email: dhruvesh1811@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/dhruvesh1811](https://www.linkedin.com/in/dhruvesh1811/)  
+- 💼 LinkedIn: [linkedin.com/in/dhruvesh1811](https://www.linkedin.com/in/dhruvesh-sorathiya-93244435b/)  
 - 🌐 Portfolio: *(Coming Soon)*  
 
 ---
